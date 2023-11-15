@@ -15,7 +15,7 @@ public class invoice {
 	int n;
 	Integer total = 0;
 	Integer price;   
-	String CustName;
+	String CustName;    
 	List<String> ProductName = new ArrayList<String>();
 	List<Integer> ProductPrice = new ArrayList<Integer>();
 	List<Integer> ProductQty = new ArrayList<Integer>();
