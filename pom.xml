@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.infinite</groupId>
-	<artifactId>BillingSystems</artifactId>
+	<artifactId>BillingSystemsprod</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>BillingSystems</name>
 	<description>Demo project for Spring Boot</description>

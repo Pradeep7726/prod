@@ -14,7 +14,7 @@ public class invoice {
 	PDDocument invc;
 	int n;
 	Integer total = 0;
-	Integer price;
+	Integer price;   
 	String CustName;
 	List<String> ProductName = new ArrayList<String>();
 	List<Integer> ProductPrice = new ArrayList<Integer>();
